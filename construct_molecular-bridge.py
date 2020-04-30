@@ -13,6 +13,7 @@ inputs:
         2.3. multiplex_index.txt: fill out for different experiments
     3. filtered_gene_bc_matrices_h5.h5 files for CBC collection
     4. step code final outputs for TBC collection
+uncommon each section for step-wise processing, check input file locations carefully
 
 """
 
