@@ -4,7 +4,12 @@
 
 1. construct_molecular-bridges.py
 
-  the script to step-wise construct the bridge connecting cell-barcode (CBC) and viral clonal tracking barcode (TBC)
+  the script to step-wise construct the bridge connecting cell-barcode (CBC) and viral clonal tracking barcode (TBC).
+  To use the code, follow these steps:
+    1) download the ".py" code file and the "00-external" folder into the same directory
+    2) prepare the additional input data (see below)
+    3) open the ".py" code in a Python interpreter (Spyder recommended)
+    4) uncomment the session and run
 
 
 2. 00-external
