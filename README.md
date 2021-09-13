@@ -1,5 +1,5 @@
-# HSCmanuscript
-# python scripts for analysis in manuscript "Quantifying in vivo associations between gene expression and stem cell function at the single cell level"
+# Rong Lu Lab at USC Stem Cell
+# python scripts for PacBio data analysis that connects viral-barcode-based clonal tracking data and 10xGenomics 3' single-cell gene expression data
 
 
 1. python scripts
